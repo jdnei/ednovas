@@ -3,6 +3,8 @@
 
 # EdNovas云机场官方地址(2026年11月5日更新)
 EdNovas云机场官网地址</br>
+
+✅回国机场节点，需买英文套餐</br>
 最新地址01：[se.av.bingo](https://to.iix.im/ed01)</br>
 最新地址02：[domain.wmzcy.com](https://to.iix.im/ed02)</br>
 官方地址：[ednovas.me](https://to.iix.im/ed03)</br>
