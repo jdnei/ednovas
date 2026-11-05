@@ -3,8 +3,9 @@
 
 # EdNovas云机场官方地址(2026年11月5日更新)
 EdNovas云机场官网地址</br>
-最新地址：[se.av.bingo](https://to.iix.im/ed01)</br>
-官方地址：[se.av.bingo](https://to.iix.im/ed01)</br>
+最新地址01：[se.av.bingo](https://to.iix.im/ed01)</br>
+最新地址02：[domain.wmzcy.com](https://to.iix.im/ed02)</br>
+官方地址：[ednovas.me](https://to.iix.im/ed03)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
