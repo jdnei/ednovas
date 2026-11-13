@@ -69,6 +69,6 @@ EdNovas云主打全球节点覆盖和多样化线路，高级套餐提供100多�
 #### 3.落地入口分析
 ![image](?raw=true)</br>
 #### 4.在线影视
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/ednovas/blob/main/ednovas/capcap-261113-103812.png?raw=true)</br>
 #### 4.Emby服务
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/ednovas/blob/main/ednovas/capcap-261113-103749.png?raw=true)</br>
