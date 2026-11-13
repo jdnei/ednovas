@@ -56,12 +56,8 @@ EdNovas云主打全球节点覆盖和多样化线路，高级套餐提供100多�
 
 注意： 年付套餐分为“每月重置流量”和“全年共享总流量”两种，表格已明确区分，避免 GitHub 读者误以为所有年付套餐都按月刷新。
 ## 📊 性能实测与分析
-#### 1.1电信晚高峰测速表现
-![image](?raw=true)</br>
-#### 1.2联通晚高峰测速表现
-![image](?raw=true)</br>
-#### 1.3移动晚高峰测速表现
-![image](?raw=true)</br>
+#### 1.晚高峰测速表现
+![image](https://github.com/jdnei/ednovas/blob/main/ednovas/ct-20260829-1142-0add0f25.png?raw=true)</br>
 #### 2.1AI解锁报告
 ![image](?raw=true)</br>
 #### 2.2流媒体解锁报告
